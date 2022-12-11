@@ -10,7 +10,7 @@ namespace Grade_Book
             //Book book2 = new Book();
             //book2.AddGrade(90.1);
 
-            var book = new Book();
+            var book = new Book("Telmo grade book");
             book.AddGrade(89.1);
             book.AddGrade(90.5);
 
@@ -23,14 +23,25 @@ namespace Grade_Book
             //result += numbers[2];
 
             var result = 0.0;
+            var highGrade = double.MinValue;
+            var lowGrade = double.MaxValue;
 
             foreach (var number in grades)
             {
+                //if(number > highGrade)
+                //{
+                //    highGrade = number;
+                //}
+
+                lowGrade = Math.Min(number, lowGrade);
+                highGrade = Math.Max(number, highGrade);
+
                 result += number;
             }
 
             result /= grades.Count;
-
+            Console.WriteLine($"The lowest grade is {lowGrade}");
+            Console.WriteLine($"The highest grade is {highGrade}");
             Console.WriteLine($"The average grade is {result:N3}");
         }
     }
