@@ -1,0 +1,15 @@
+G:\projects\c#\Grade Book\bin\Debug\net6.0\Grade Book.exe
+G:\projects\c#\Grade Book\bin\Debug\net6.0\Grade Book.deps.json
+G:\projects\c#\Grade Book\bin\Debug\net6.0\Grade Book.runtimeconfig.json
+G:\projects\c#\Grade Book\bin\Debug\net6.0\Grade Book.dll
+G:\projects\c#\Grade Book\bin\Debug\net6.0\Grade Book.pdb
+G:\projects\c#\Grade Book\obj\Debug\net6.0\Grade Book.csproj.AssemblyReference.cache
+G:\projects\c#\Grade Book\obj\Debug\net6.0\Grade Book.GeneratedMSBuildEditorConfig.editorconfig
+G:\projects\c#\Grade Book\obj\Debug\net6.0\Grade Book.AssemblyInfoInputs.cache
+G:\projects\c#\Grade Book\obj\Debug\net6.0\Grade Book.AssemblyInfo.cs
+G:\projects\c#\Grade Book\obj\Debug\net6.0\Grade Book.csproj.CoreCompileInputs.cache
+G:\projects\c#\Grade Book\obj\Debug\net6.0\Grade Book.dll
+G:\projects\c#\Grade Book\obj\Debug\net6.0\refint\Grade Book.dll
+G:\projects\c#\Grade Book\obj\Debug\net6.0\Grade Book.pdb
+G:\projects\c#\Grade Book\obj\Debug\net6.0\Grade Book.genruntimeconfig.cache
+G:\projects\c#\Grade Book\obj\Debug\net6.0\ref\Grade Book.dll
